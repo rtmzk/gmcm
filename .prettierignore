@@ -1,0 +1,11 @@
+**/*.go
+/web/dist/*
+/web/.local
+/web/.output.js
+/web/node_modules/**
+
+
+**/*.svg
+**/*.sh
+
+/web/public/*
